@@ -1,0 +1,3 @@
+Desafios Webpack
+1 - Concatenar todos os módulos em um unico modulo e carregar esse unico modulo na aplicação
+2 - Minificar todos os scripts para diminiuir o bunddle do usuario.
