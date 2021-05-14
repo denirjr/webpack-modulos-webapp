@@ -12,6 +12,7 @@ module.exports = {
         new HtmlWebPackPlugin({
             template: './app/src/app.html',
             filename: 'app.html',
+            hash: true,
         })
     ]
 };
